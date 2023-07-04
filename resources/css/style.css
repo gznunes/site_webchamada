@@ -3,7 +3,6 @@ header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/sala-de-aula-pb.jpg");
     background-size: cover;
     background-position: center;
-    /* height: 400px; */
 }
 
 .cards>.col{
@@ -13,12 +12,6 @@ header{
 .yt-video{
     margin-left: 50px;
 }
-
-/* input,
-select,
-textarea{
-    max-width: 420px;
-} */
 
 footer .social .fab{
     font-size: 1.5em;
@@ -43,8 +36,6 @@ footer .social .fa-youtube:hover{
     font-weight: 500;
     font-size: 1.25rem;
     margin: 0;
-    /* padding-bottom: 5px; */
-    /* margin-bottom: 0px; */
 }
 
 .texto-card1{
