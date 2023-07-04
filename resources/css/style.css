@@ -3,6 +3,17 @@ header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/sala-de-aula-pb.jpg");
     background-size: cover;
     background-position: center;
+    margin-top: 65px; 
+    width: 90%;
+}
+
+textarea{
+    height: 150px;
+}
+
+.logo{
+    width:30px; 
+    height:30px; 
 }
 
 .cards>.col{
